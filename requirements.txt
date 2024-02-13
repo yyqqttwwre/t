@@ -1,5 +1,4 @@
 websocket-client
-telebot
 random
 names
 os
