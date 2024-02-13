@@ -1,0 +1,7 @@
+websocket-client
+telebot
+random
+names
+os
+time
+gzip
